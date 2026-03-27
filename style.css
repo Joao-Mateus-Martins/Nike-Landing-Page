@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     background: #ccad57;
-    color: white;
+    color: rgba(255, 255, 255, 0.904);
     padding: 20px 160px;
     height: 100vh;
     font-family: "Outfit", sans-serif;
@@ -115,7 +115,7 @@ p {
 }
 
 .preto {
-    background: #474545;
+    background: #252424;
 }
 
 .branco {
@@ -128,6 +128,9 @@ p {
 
 @media (max-width: 1024px) {
 
+    body{
+        color: #000000;
+    }
 
     body::before {
         display: none;
@@ -164,14 +167,14 @@ p {
     body::after{
         z-index: 1;
         position: absolute;
-        top: 80%;
+        top: 70%;
         opacity: 0.2;
     }
 }
 
 @media (max-width: 768px) {
     body {
-        padding: 20px 30px;
+        padding: 10px 10px;
     }
 
     .caixa-p {
@@ -187,7 +190,7 @@ p {
     }
 
     body::after {
-        font-size: 20vw;
+        font-size: 10vw;
     }
 }
 
