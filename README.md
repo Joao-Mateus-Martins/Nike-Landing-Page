@@ -1,13 +1,48 @@
-<h1> Site da Nike feito com base nas aulas <a href="https://rodolfomori.com.br/"> DevClub </a>👟</h1>
+# 🏎️ Car Store
 
-<h2>Linguagens utilizadas 💡</h2>
+A responsive website for presenting and showcasing vehicles for sale, built with a focus on modern design, clear organization, and a smooth user experience.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 🌐 Live Demo
 
-<img width="1918" height="904" alt="Captura de tela 2025-07-29 222724" src="https://github.com/user-attachments/assets/c581f503-311c-4a11-b3e7-ceaf23b864d8" />
+[View Live Demo](https://projeto-loja-de-carros-eight.vercel.app/)
 
-  <h2>⬇️Abra o site na pagina aqui </h2> 
-  
-<a href=https://site-nike-joao-mateus-martins-alves-projects.vercel.app/>![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)</a>
+## ✨ Features
+
+- 🚗 Vehicle listing and showcase layout
+- 📱 Fully responsive design (desktop, tablet, mobile)
+- 🎨 Modern, organized visual layout
+- ⚡ Interactive elements with vanilla JavaScript
+
+## 🛠️ Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Vercel (Deploy)
+
+## 📂 Project Structure
+
+```
+Car-store/
+├── img/
+├── index.html
+├── script.js
+├── style.css
+└── README.md
+```
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/Joao-Mateus-Martins/Car-store.git
+cd Car-store
+```
+
+Then open `index.html` directly in your browser.
+
+## 👨‍💻 Developer
+
+**João Mateus** — Web Developer
+
+- GitHub: [@Joao-Mateus-Martins](https://github.com/Joao-Mateus-Martins)
+
