@@ -1,17 +1,17 @@
-# 🏎️ Car Store
+# 👟 Nike Landing Page
 
-A responsive website for presenting and showcasing vehicles for sale, built with a focus on modern design, clear organization, and a smooth user experience.
+A responsive Nike-themed landing page built while following the [DevClub](https://rodolfomori.com.br/) course, focused on practicing layout, typography, and interactive UI details with vanilla web technologies.
 
 ## 🌐 Live Demo
 
-[View Live Demo](https://projeto-loja-de-carros-eight.vercel.app/)
+[View Live Demo](https://site-nike-joao-mateus-martins-alves-projects.vercel.app/)
 
 ## ✨ Features
 
-- 🚗 Vehicle listing and showcase layout
-- 📱 Fully responsive design (desktop, tablet, mobile)
-- 🎨 Modern, organized visual layout
-- ⚡ Interactive elements with vanilla JavaScript
+- 🏃 Nike-inspired hero section and product showcase
+- 📱 Fully responsive layout (desktop, tablet, mobile)
+- 🎨 Modern styling with custom CSS
+- ⚡ Interactive elements powered by vanilla JavaScript
 
 ## 🛠️ Technologies
 
@@ -23,7 +23,7 @@ A responsive website for presenting and showcasing vehicles for sale, built with
 ## 📂 Project Structure
 
 ```
-Car-store/
+nike-landing-page/
 ├── img/
 ├── index.html
 ├── script.js
@@ -34,13 +34,22 @@ Car-store/
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/Joao-Mateus-Martins/Car-store.git
-cd Car-store
+git clone https://github.com/Joao-Mateus-Martins/Nike-landing-page.git
+cd Nike-landing-page
 ```
 
-Then open `index.html` directly in your browser.
+Then simply open `index.html` in your browser — no build steps or dependencies required.
+
+## 🎯 Project Goals
+
+Built to practice responsive design and DOM interactions inspired by real-world brand landing pages.
 
 ## 👨‍💻 Developer
+
+Developed by **João Mateus**
+Junior Front-End Developer | HTML, CSS, JavaScript & React
+
+- GitHub: [@Joao-Mateus-Martins](https://github.com/Joao-Mateus-Martins)
 
 **João Mateus** — Web Developer
 
